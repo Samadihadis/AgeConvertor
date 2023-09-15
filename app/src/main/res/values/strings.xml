@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgeConvertor</string>
+    <string name="accounting">حساب و کتاب</string>
+    <string name="person_age">سن شخص :</string>
+</resources>
